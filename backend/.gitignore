@@ -1,0 +1,9 @@
+
+# Keep environment variables out of version control
+
+
+/generated/prisma
+node_modules
+.env
+*.db
+*.db-journal
