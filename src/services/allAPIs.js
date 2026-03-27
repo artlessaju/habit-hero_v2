@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // The URL of your new Node.js Backend
-const BASE_URL = "http://localhost:8000";
+const BASE_URL = "https://habit-hero-backend-ftgj.onrender.com";
 
 // 1. REGISTER API
 export const registerAPI = async (user) => {
